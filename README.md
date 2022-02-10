@@ -11,7 +11,7 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 status](https://www.r-pkg.org/badges/version/rimmer)](https://CRAN.R-project.org/package=rimmer)
 [![R-CMD-check](https://github.com/gorcha/rimmer/workflows/R-CMD-check/badge.svg)](https://github.com/gorcha/rimmer/actions)
 [![Codecov test
-coverage](https://codecov.io/gh/gorcha/rimmer/branch/master/graph/badge.svg)](https://app.codecov.io/gh/gorcha/rimmer?branch=master)
+coverage](https://codecov.io/gh/gorcha/rimmer/branch/main/graph/badge.svg)](https://app.codecov.io/gh/gorcha/rimmer?branch=main)
 <!-- badges: end -->
 
 The goal of rimmer is to …
